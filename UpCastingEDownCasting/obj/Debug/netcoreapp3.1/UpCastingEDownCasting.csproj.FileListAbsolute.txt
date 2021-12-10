@@ -1,0 +1,13 @@
+C:\Cursos\Curso C#\Curso C# - Reboot 2\Capitulo 10 - Herança e polimorfismo\UpCastingEDownCasting\UpCastingEDownCasting\bin\Debug\netcoreapp3.1\UpCastingEDownCasting.exe
+C:\Cursos\Curso C#\Curso C# - Reboot 2\Capitulo 10 - Herança e polimorfismo\UpCastingEDownCasting\UpCastingEDownCasting\bin\Debug\netcoreapp3.1\UpCastingEDownCasting.deps.json
+C:\Cursos\Curso C#\Curso C# - Reboot 2\Capitulo 10 - Herança e polimorfismo\UpCastingEDownCasting\UpCastingEDownCasting\bin\Debug\netcoreapp3.1\UpCastingEDownCasting.runtimeconfig.json
+C:\Cursos\Curso C#\Curso C# - Reboot 2\Capitulo 10 - Herança e polimorfismo\UpCastingEDownCasting\UpCastingEDownCasting\bin\Debug\netcoreapp3.1\UpCastingEDownCasting.runtimeconfig.dev.json
+C:\Cursos\Curso C#\Curso C# - Reboot 2\Capitulo 10 - Herança e polimorfismo\UpCastingEDownCasting\UpCastingEDownCasting\bin\Debug\netcoreapp3.1\UpCastingEDownCasting.dll
+C:\Cursos\Curso C#\Curso C# - Reboot 2\Capitulo 10 - Herança e polimorfismo\UpCastingEDownCasting\UpCastingEDownCasting\bin\Debug\netcoreapp3.1\UpCastingEDownCasting.pdb
+C:\Cursos\Curso C#\Curso C# - Reboot 2\Capitulo 10 - Herança e polimorfismo\UpCastingEDownCasting\UpCastingEDownCasting\obj\Debug\netcoreapp3.1\UpCastingEDownCasting.csprojAssemblyReference.cache
+C:\Cursos\Curso C#\Curso C# - Reboot 2\Capitulo 10 - Herança e polimorfismo\UpCastingEDownCasting\UpCastingEDownCasting\obj\Debug\netcoreapp3.1\UpCastingEDownCasting.AssemblyInfoInputs.cache
+C:\Cursos\Curso C#\Curso C# - Reboot 2\Capitulo 10 - Herança e polimorfismo\UpCastingEDownCasting\UpCastingEDownCasting\obj\Debug\netcoreapp3.1\UpCastingEDownCasting.AssemblyInfo.cs
+C:\Cursos\Curso C#\Curso C# - Reboot 2\Capitulo 10 - Herança e polimorfismo\UpCastingEDownCasting\UpCastingEDownCasting\obj\Debug\netcoreapp3.1\UpCastingEDownCasting.csproj.CoreCompileInputs.cache
+C:\Cursos\Curso C#\Curso C# - Reboot 2\Capitulo 10 - Herança e polimorfismo\UpCastingEDownCasting\UpCastingEDownCasting\obj\Debug\netcoreapp3.1\UpCastingEDownCasting.dll
+C:\Cursos\Curso C#\Curso C# - Reboot 2\Capitulo 10 - Herança e polimorfismo\UpCastingEDownCasting\UpCastingEDownCasting\obj\Debug\netcoreapp3.1\UpCastingEDownCasting.pdb
+C:\Cursos\Curso C#\Curso C# - Reboot 2\Capitulo 10 - Herança e polimorfismo\UpCastingEDownCasting\UpCastingEDownCasting\obj\Debug\netcoreapp3.1\UpCastingEDownCasting.genruntimeconfig.cache
